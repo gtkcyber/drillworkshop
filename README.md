@@ -21,6 +21,7 @@ If you are not using the VM, you will need to install Drill on your local machin
 
 Mr. Givre got interested in Apache Drill several years ago, and is co-author of the first O’Reilly book about Drill. He has delivered numerous workshops about Drill and has contributed to the codebase. Mr. Givre is a sought-after speaker and has delivered training and talks at international conferences such as BlackHat, Strata + Hadoop World, Open Data Science Conference (ODSC) and others. Mr. Givre holds a Master of Arts from Brandeis University in Middle Eastern Studies, a Bachelor of Science in Computer Science and a Bachelor of Music both from the University of Arizona. Mr. Givre also holds a CISSP, Security+ and various other certifications. Mr. Givre blogs at [thedataist.com](http://www.thedataist.com) and in his non-existant spare time, Mr. Givre enjoys spending time with his family and restoring classic cars.
 
+You can contact Charles at charles.givre@gtkcyber.com.
 
 ## Code of Conduct
 Don't be a jerk
