@@ -1,4 +1,4 @@
-![GTKCyber-logo](./images/logo_white_bkg_small.png)
+![GTKCyber-logo](./img/logo_white_bkg_small.png)
 
 # Data Exploration with Apache Drill
 
